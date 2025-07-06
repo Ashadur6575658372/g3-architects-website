@@ -186,6 +186,9 @@ main > section {
   max-width: 540px;
   margin-bottom: 100px;
 }
+.some-fact-description{
+  margin-bottom: 100px;
+}
 .sponsor-info{
   max-width: 540px;
   margin: 0 auto;
